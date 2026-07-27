@@ -40,6 +40,6 @@ Here are some ideas to get you started:
 
 ### Statistics
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=brasd9806&show_icons=true&theme=holi&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brasd9806&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" height="170" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=brasd9806&show_icons=true&theme=holi&hide_border=true&cache_seconds=86400" height="170" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=brasd9806&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5&cache_seconds=86400" height="170" />
 </p>
